@@ -7,5 +7,6 @@ namespace PrzykladKolokwium2.Services
     {
         public Artist  GetArtists(int id);
         
+        
     }
 }

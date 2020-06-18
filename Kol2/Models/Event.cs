@@ -6,6 +6,7 @@ namespace PrzykladKolokwium2.Models
 
      public class Event
      {
+
      public int IdEvent {get; set; }
      public string Name {get; set; }
      public DateTime StartDate {get; set; }

@@ -7,7 +7,7 @@ namespace Kol2.DTO
 {
     public class PutArtistRequest
     {
-
       public  DateTime PerfomanceDate { get; set; }
+
     }
 }

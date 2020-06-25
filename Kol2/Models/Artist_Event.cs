@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrzykladKolokwium2.Models
+namespace Kol2.Models
 {
  
      public class Artist_Event

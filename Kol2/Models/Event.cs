@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PrzykladKolokwium2.Models
+namespace Kol2.Models
 {
 
      public class Event

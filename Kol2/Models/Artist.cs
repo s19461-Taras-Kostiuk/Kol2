@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace PrzykladKolokwium2.Models
+namespace Kol2.Models
 {
     
      public class Artist
